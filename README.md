@@ -25,11 +25,16 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=aldricwolff&theme=dark&background=000000&border=ffffff&stroke=ffffff&ring=ffffff&fire=ffffff&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=ffffff&sideLabels=ffffff&dates=ffffff" height="150" />
 </p>
 
-<!-- Table 3 -->
+
+<!-- Table 3
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=aldricwolff&theme=github-compact&bg_color=000000&color=ffffff&line=ffffff&point=ffffff&area=true&hide_border=false" alt="Contribution Graph" />
+</p> 
+-->
+<!-- Discord Profile (Lanyard) -->
+<p align="center">
+  <a href="https://discord.com/users/1266856656461893713"><img src="https://lanyard.cnrad.dev/api/1266856656461893713?bg=0b0b0c&theme=dark" /></a>
 </p>
-
 
 ### `// Tech Stack & Tooling`
 <p align="center">
