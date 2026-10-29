@@ -1,3 +1,4 @@
+
 <!-- Banner -->
 <p align="center">
   <img src="https://i.pinimg.com/originals/4b/ea/ca/4beaca89dc536ab5b2766d00af2f095e.gif" alt="Masterhead Banner" width="100%">
@@ -33,7 +34,8 @@
 -->
 <!-- Discord Profile (Lanyard) -->
 <p align="center">
-  <a href="https://discord.com/users/1266856656461893713"><img src="https://lanyard.cnrad.dev/api/1266856656461893713?bg=0b0b0c&theme=dark" /></a>
+  <a href="https://discord.com/users/1266856656461893713"><img src="https://lanyard.cnrad.dev/api/1266856656461893713?bg=000000&theme=dark" /></a>
+  <img width="410" height="210" alt="image" src="https://github.com/user-attachments/assets/7d607666-ae26-42d5-8f3c-bd2cb81e0fe9" />
 </p>
 
 ### `// Tech Stack & Tooling`
